@@ -9,7 +9,7 @@ As AI architectures in any coding language could potentially look very intimidat
 ### Bicubic Interpolation
 ![BicubicNTU](https://github.com/TechChateau/NoTimeUpscaler/assets/154630035/667bd578-6721-4c3f-9d36-f18b8326fae6)
 
-### Upscaled with AI
+### AI Upscaler
 ![UpscaledNTU](https://github.com/TechChateau/NoTimeUpscaler/assets/154630035/f8d15a24-878b-439e-93d0-a603e92546da)
 
 First make it work, then begin understanding the "how".
