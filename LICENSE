@@ -1,0 +1,45 @@
+This project is intended to serve as an academic tutorial to help with research
+efforts and understanding of AI architecture design.
+
+The DIV2K dataset is used here for demonstration purposes, and is cited
+below.
+
+@InProceedings{Agustsson_2017_CVPR_Workshops,
+	author = {Agustsson, Eirikur and Timofte, Radu},
+	title = {NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and
+  Study},
+	booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR) Workshops},
+	month = {July},
+	year = {2017}
+}
+
+DIV2K Quoted License: (source: https://data.vision.ee.ethz.ch/cvl/DIV2K/)
+Please notice that this dataset is made available for academic research purpose
+only. All the images are collected from the Internet, and the copyright belongs
+to the original owners. If any of the images belongs to you and you would like
+it removed, please kindly inform us, we will remove it from our dataset
+immediately.
+
+The following is in respect of the software portion of the material presented
+here.
+
+Copyright (c) 2023 Parham Faraji
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
