@@ -18,6 +18,7 @@ Keep in mind that the Model Demo is proprietary and will not work with all data 
 
 Good luck.
 
+### Reference:
 @InProceedings{Agustsson_2017_CVPR_Workshops,
 	author = {Agustsson, Eirikur and Timofte, Radu},
 	title = {NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and
