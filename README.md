@@ -19,12 +19,4 @@ Keep in mind that the Model Demo is proprietary and will not work with all data 
 Good luck.
 
 ### References
-@InProceedings{Agustsson_2017_CVPR_Workshops,
-	author = {Agustsson, Eirikur and Timofte, Radu},
-	title = {NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and
-  Study},
-	booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition
-  (CVPR) Workshops},
-	month = {July},
-	year = {2017}
-}
+E. Agustsson and R. Timofte, "NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study," 2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Honolulu, HI, USA, 2017, pp. 1122-1131, doi: 10.1109/CVPRW.2017.150.
